@@ -1,0 +1,6 @@
+# Workflows run on Linux runners - CRLF in a `run: |` block breaks the shell.
+# Keep everything in this repo checked in with LF.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.svg text eol=lf
