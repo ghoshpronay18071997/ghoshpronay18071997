@@ -242,7 +242,7 @@ Spam vs. ham classification with transformer models - fine-tuned encoder on labe
 </td>
 </tr></table>
 
-<sub>Last updated: 2026-11-13 · auto-generated from public repositories.</sub>
+<sub>Last updated: 2026-11-14 · auto-generated from public repositories.</sub>
 <!-- PROJECTS:END -->
 
 <p align="center">
